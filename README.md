@@ -18,7 +18,7 @@ Estudos de Python na [DIO](web.dio.me)
 - Conhecendo Polimorfismo em python ✅
 - POO com Python - Interfaces e Classes Abstratas ✅
 - Decoradores, Iteradores e Geradores com Python ✅
-- Lidando com Data, Hora e Fuso Horário no Python
+- Lidando com Data, Hora e Fuso Horário no Python ✅
 - Manipulando Arquivos em Python
 - Gerenciamento de Pacotes, Convelões e Boas Práticas Python
 - Explorando Banco de Dados Relacionais com Python DB API
