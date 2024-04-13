@@ -19,7 +19,7 @@ Estudos de Python na [DIO](web.dio.me)
 - POO com Python - Interfaces e Classes Abstratas ✅
 - Decoradores, Iteradores e Geradores com Python ✅
 - Lidando com Data, Hora e Fuso Horário no Python ✅
-- Manipulando Arquivos em Python
+- Manipulando Arquivos em Python ✅
 - Gerenciamento de Pacotes, Convelões e Boas Práticas Python
 - Explorando Banco de Dados Relacionais com Python DB API
 - Introdução ao Desenvolvimento Web com Python
