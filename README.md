@@ -22,7 +22,7 @@ Estudos de Python na [DIO](web.dio.me)
 - Manipulando Arquivos em Python ✅
 - Gerenciamento de Pacotes, Convelões e Boas Práticas Python ✅
 - Explorando Banco de Dados Relacionais com Python DB API ✅
-- Introdução ao Desenvolvimento Web com Python
+- Introdução ao Desenvolvimento Web com Python ✅
 
 ## Projetos
 - [Sistema Bancário](https://github.com/otonielnn/SistemaBancario)
