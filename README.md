@@ -26,3 +26,4 @@ Estudos de Python na [DIO](web.dio.me)
 
 ## Projetos
 - [Sistema Bancário](https://github.com/otonielnn/SistemaBancario)
+- [WorkoutAPI](https://github.com/otonielnn/workout_api)
